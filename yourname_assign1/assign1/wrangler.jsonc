@@ -1,0 +1,7 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "cos10026-web-technology-project",
+  "assets": {
+    "directory": "."
+  }
+}
